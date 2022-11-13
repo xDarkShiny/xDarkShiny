@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-"Hi, I'm DarkShiny. I am 15 years old. In general, my interests are in HTML, CSS, JS.I am not a Front end Developer!"</p>
+"Hi, I'm DarkShiny. In general, my interests are in HTML, CSS, JS.I am not a Front end Developer!"</p>
 
 <div align="center">
 <img src="https://lanyard-profile-readme.vercel.app/api/438037153310834700?borderRadius=25px&bg=#282a36"
