@@ -17,17 +17,20 @@
   </h1></div>
 <div align="center">
 
-<img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white"/>
-<img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-<img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img alt="Vue.js" src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vue-dot-js&logoColor=%234FC08D"/>
-  <img alt="TailwindCSS" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-  <img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-  <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
-  <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
+<img alt="NodeJS" src="https://img.shields.io/badge/node.js-%23000000.svg?style=for-the-badge&logo=node-dot-js&logoColor=white"/>
+<img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23000000.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+<img alt="HTML5" src="https://img.shields.io/badge/html5-%23000000.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img alt="CSS3" src="https://img.shields.io/badge/css3-%23000000.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img alt="Vue.js" src="https://img.shields.io/badge/vuejs-%23000000.svg?style=for-the-badge&logo=vue-dot-js&logoColor=%234FC08D"/>
+  <img alt="TailwindCSS" src="https://img.shields.io/badge/tailwindcss-%23000000.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img alt="GitHub" src="https://img.shields.io/badge/github-%23000000.svg?style=for-the-badge&logo=github&logoColor=white"/>
+  <img alt="Git" src="https://img.shields.io/badge/git-%23000000.svg?style=for-the-badge&logo=git&logoColor=white"/>
   <img alt="Vercel" src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"/>
-  <img alt="React" src="https://img.shields.io/badge/react-%23000000.svg?style=for-the-badge&logo=reactl&logoColor=white"/>
+  <img alt="React" src="https://img.shields.io/badge/react-%23000000.svg?style=for-the-badge&logo=react&logoColor=white"/>
+  <img alt="Svelte" src="https://img.shields.io/badge/svelte-%23000000.svg?style=for-the-badge&logo=svelte&logoColor=white"/>
+  <img alt="Php" src="https://img.shields.io/badge/php-%23000000.svg?style=for-the-badge&logo=php&logoColor=white"/>
+  <img alt="Php" src="https://img.shields.io/badge/mongo-%23000000.svg?style=for-the-badge&logo=mongo&logoColor=white"/>
+
 
 </div>
 
