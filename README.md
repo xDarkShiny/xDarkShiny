@@ -17,9 +17,9 @@
   </h1></div>
 <div align="center">
 
-<img alt="NodeJS" src="https://img.shields.io/badge/node.js-%23000000.svg?style=for-the-badge&logo=node-dot-js&logoColor=white"/>
-<img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23000000.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-<img alt="HTML5" src="https://img.shields.io/badge/html5-%23000000.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img alt="NodeJS" src="https://img.shields.io/badge/node.js-%23000000.svg?style=for-the-badge&logo=nodejs&logoColor=white"/>
+  <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23000000.svg?style=for-the-badge&logo=javascript"/>
+  <img alt="HTML5" src="https://img.shields.io/badge/html5-%23000000.svg?style=for-the-badge&logo=html5&logoColor=white"/>
   <img alt="CSS3" src="https://img.shields.io/badge/css3-%23000000.svg?style=for-the-badge&logo=css3&logoColor=white"/>
   <img alt="Vue.js" src="https://img.shields.io/badge/vuejs-%23000000.svg?style=for-the-badge&logo=vue-dot-js&logoColor=%234FC08D"/>
   <img alt="TailwindCSS" src="https://img.shields.io/badge/tailwindcss-%23000000.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
