@@ -5,12 +5,11 @@
 </h1>
 
 <div align="center">
-<img src="https://lanyard-profile-readme.vercel.app/api/438037153310834700?borderRadius=25px&bg=#282a36"
 </div>
 <p>
   I develop websites as a hobby. Every time I try, I try and develop different things. More Info : <a href="https://darkshiny.vercel.app/" >Click!</a>
 </p>
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/894637264259387402)]
+<img src="https://lanyard-profile-readme.vercel.app/api/894637264259387402?borderRadius=25px&bg=#282a36"
 
 <div>
 <h1>
