@@ -27,7 +27,7 @@
   <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
   <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
   <img alt="Vercel" src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"/>
-  <img alt="React" src="https://img.shields.io/badge/react-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img alt="React" src="https://img.shields.io/badge/react-%23000000.svg?style=for-the-badge&logo=reactl&logoColor=white"/>
 
 </div>
 
